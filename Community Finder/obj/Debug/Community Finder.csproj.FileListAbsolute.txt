@@ -12,3 +12,14 @@ C:\Users\a\Desktop\code source\C#\Community Finder\Community Finder\obj\Debug\Co
 C:\Users\a\Desktop\code source\C#\Community Finder\Community Finder\obj\Debug\Community Finder.pdb
 C:\Users\a\Desktop\code source\C#\Community Finder\Community Finder\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
 C:\Users\a\Desktop\code source\C#\Community Finder\Community Finder\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\a\Desktop\Source Code\GIT repositories\Desktop  Development\Community-Finder\Community Finder\bin\Debug\Community Finder.exe.config
+C:\Users\a\Desktop\Source Code\GIT repositories\Desktop  Development\Community-Finder\Community Finder\bin\Debug\Community Finder.exe
+C:\Users\a\Desktop\Source Code\GIT repositories\Desktop  Development\Community-Finder\Community Finder\bin\Debug\Community Finder.pdb
+C:\Users\a\Desktop\Source Code\GIT repositories\Desktop  Development\Community-Finder\Community Finder\obj\Debug\Community Finder.csprojAssemblyReference.cache
+C:\Users\a\Desktop\Source Code\GIT repositories\Desktop  Development\Community-Finder\Community Finder\obj\Debug\Community_Finder.Form1.resources
+C:\Users\a\Desktop\Source Code\GIT repositories\Desktop  Development\Community-Finder\Community Finder\obj\Debug\Community_Finder.Properties.Resources.resources
+C:\Users\a\Desktop\Source Code\GIT repositories\Desktop  Development\Community-Finder\Community Finder\obj\Debug\Community Finder.csproj.GenerateResource.cache
+C:\Users\a\Desktop\Source Code\GIT repositories\Desktop  Development\Community-Finder\Community Finder\obj\Debug\Community Finder.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Source Code\GIT repositories\Desktop  Development\Community-Finder\Community Finder\obj\Debug\Community Finder.csproj.CopyComplete
+C:\Users\a\Desktop\Source Code\GIT repositories\Desktop  Development\Community-Finder\Community Finder\obj\Debug\Community Finder.exe
+C:\Users\a\Desktop\Source Code\GIT repositories\Desktop  Development\Community-Finder\Community Finder\obj\Debug\Community Finder.pdb
