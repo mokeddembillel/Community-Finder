@@ -6,3 +6,5 @@ but it's okay you can get a 30 days free trial
 - for the graph visualization you have to install graphViz and add it to environment variables
 
 - Good Luck ^^
+
+![community-finder-png](./community-finder.png)
